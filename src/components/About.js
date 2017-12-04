@@ -16,27 +16,27 @@ const About = () => (
           <p>To support our mission of making crypto accessible to everyone, we’ve made our <b><a href="https://github.com/onitsoft/nexchange-open-client-react" target="_blank">front end client completely open source <i className="fa fa-github" aria-hidden="true"></i></a></b>.</p>
 
           <div id="team-members" className="row">
-            <TeamMember id="oleg" name="Oleg Belousov" country="IL" fullCountryName="Israel"
+            <TeamMember id="Dane" name="Danegrous Dane" country="IL" fullCountryName="Congo"
               description="Multidisciplinary coder. Aspiring innovator with a deep passion for open source and making the world better, step by step, every single day."
               social={{
                 linkedin: "https://www.linkedin.com/in/oleg-belousov-b4112145/",
                 twitter: "https://twitter.com/cryptokingbtc",
-                medium: "https://medium.com/@IoOleg",
-                      }} />
+                     }} />
 
             <TeamMember id="Ossie" name="Ossie" country="UK" fullCountryName="United Kingdom"
               description="Product manager. DevOps evangelist and full time crypto trader . Cryptocurrency enthusiast since 2013."
               social={{
                 linkedin: "https://www.linkedin.com/in/daniel-blank-72166284/",
-                twitter: "https://twitter.com/daniel_a_blank",
-                quora: "https://www.quora.com/profile/Daniel-Blank-7",
+                twitter: "https://twitter.com/ossiemarks",
+                quora: "https://www.quora.com/profile/ossiemarks",
+                github: "https://github.com/ossiemarks"
               }} />
 
             <TeamMember id="Kev" name="Kevin DJ" country="LT" fullCountryName="United Kingdom"
               description="Backend developer and physicist. Animation fan, cryptocurrencies enthusiast and plays the saxophone."
               social={{
                 linkedin: "https://www.linkedin.com/in/%C5%A1ar%C5%ABnas-a%C5%BEna-102220b2/",
-                "github": "https://github.com/SarunasAzna",
+                "github": "https://github.com/kevdj",
               }} />
           </div>
         </div>
