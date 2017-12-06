@@ -1,8 +1,8 @@
 const config = {
-	NAME: 'Nexchange',
-	DOMAIN: 'https://nexchange.io',
-	API_BASE_URL: 'https://api.nexchange.io/en/api/v1',
-	SUPPORT_EMAIL: 'support@nexchange.io',
+	NAME: 'CryptoKing',
+	DOMAIN: 'http://www.cryptoking.com',
+	API_BASE_URL: 'http://www.cryptoking.com/en/api/v1',
+	SUPPORT_EMAIL: 'support@cryptoking.com',
 	PRICE_FETCH_INTERVAL: 60000,
 	ORDER_DETAILS_FETCH_INTERVAL: 20000,
 	RECENT_ORDERS_INTERVAL: 20000,
